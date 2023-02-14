@@ -1,32 +1,46 @@
 /* Place CSS styles here */
-.main-resume{
-    margin-left: 20px;
+
+header
+{
+    display:flex;
+    justify-content: center;
 }
-.main-resume h1{
-    color: #461d7c;
-    margin-top: 3px;
-    margin-bottom: 2px;
-    font-family: 'Teko', sans-serif;
+
+.logo
+{
+    max-width: 70%;
 }
-.main-resume h2{
-    color: #19258A;
-    margin-bottom: 4px;
-    font-family: 'Teko', sans-serif;
+
+.navigation
+{
+    display:flex;
+    justify-content: center;
+    gap: 20px;
 }
-.main-resume h3{
-    color:#87198A;
-    margin-top: 7px;
-    margin-bottom: 4px;
-    font-family: 'Josefin Slab', serif;
+
+.featuredarticle
+{
+    display:flex;
+    justify-content: center;
 }
-.main-resume ul{
-    color:#2E1B94;
-    margin-top:3px;
-    margin-bottom:2px;
-    font-family: 'Josefin Slab', serif;
+
+h2{
+  justify-content: center;
 }
-.main-resume p{
-    color:#2E1B94;
-    margin-top:0px;
-    margin-bottom:0px
+
+.featuredboard
+{
+display: flex;
+justify-content: center;
+}
+
+.featuredboard-items
+{
+    display:flex;
+    gap: 0.5%;
+}
+
+.featuredboard-image
+{
+    max-width: 10%;
 }
