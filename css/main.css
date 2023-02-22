@@ -18,7 +18,10 @@ justify-content: space-evenly;
 margin: 0;
 padding: 5px 5px;
 justify-content: center;
-color: #0339a6;
+font: #0339a6;
+font-family: 'silva-display', normal;
+font-weight: 500;
+
 }
 
 .logo
@@ -43,6 +46,8 @@ h2{
     display: flex;
   justify-content: center;
   color: white;
+  font-family: 'silva-display', normal;
+  font-weight: 500;
 }
 
 .featuredboard
@@ -67,4 +72,6 @@ p{
   margin: 0 auto;
   padding-top: 6px;
   color: white;
+  font-family: 'silva-display', normal;
+  font-weight: 400;
 }
