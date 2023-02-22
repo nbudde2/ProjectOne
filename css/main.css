@@ -4,6 +4,29 @@ img {
     height: auto;
 }
 
+.very-top {
+  display:flex;
+max-width: 900px;
+margin: 0 auto;
+justify-content: center;
+}
+
+.searchbar{
+  display: flex;
+  max-width: 25px;
+  max-height: 25px;
+  padding-top: 20px;
+}
+
+.profile-messages{
+  display: flex;
+  max-width: 25px;
+  max-height: 25px;
+  padding-top: 20px;
+  gap: 25px;
+  justify-content: right;
+}
+
 .navigation
 {
  display:flex;
@@ -21,7 +44,6 @@ justify-content: center;
 font: #0339a6;
 font-family: 'silva-display', normal;
 font-weight: 500;
-
 }
 
 .logo
