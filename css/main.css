@@ -3,67 +3,68 @@ img {
     width: 100%;
     height: auto;
 }
+
 .navigation
 {
  display:flex;
-max-width: 600px;
+max-width: 900px;
 margin: 0 auto;
-border: 1px solid #999;
-border-radius: 12px;
 padding: 12px 24px;
+justify-content: space-evenly;
+}
+
+.navigationitem
+{
+margin: 0;
+padding: 5px 5px;
 justify-content: center;
+color: #0339a6;
 }
 
 .logo
 {
  display:flex;
-max-width: 600px;
+max-width: 400px;
 margin: 0 auto;
-border: 1px solid #999;
-border-radius: 12px;
 padding: 12px 24px;
 justify-content: center;
-}
-
-.navigation
-{
-    display:flex;
-    justify-content: center;
-    gap: 20px;
 }
 
 .featuredarticle
 {
 display:flex;
-max-width: 600px;
+max-width: 924px;
 margin: 0 auto;
-border: 1px solid #999;
-border-radius: 12px;
-padding: 12px 24px;
+padding: 24px 24px;
 justify-content: center;
 }
 
 h2{
     display: flex;
   justify-content: center;
+  color: white;
 }
 
 .featuredboard
 {
-
+    max-width: 900px;
+    gap: 30px;
+  margin: 0 auto;
+  padding: 12px;
+  background-color: #0339a6;
 }
 
 .featuredboard-items
 {
     display:flex;
-    max-width: 800px;
-    gap: 10px;
+    max-width: 900px;
+    gap: 30px;
   margin: 0 auto;
-  border: 1px solid #999;
-  border-radius: 12px;
-  padding: 12px 24px;
+  padding: 24px 24px;
 }
 
-.featuredboard-image
-{
+p{
+  margin: 0 auto;
+  padding-top: 6px;
+  color: white;
 }
