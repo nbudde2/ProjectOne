@@ -64,7 +64,7 @@ padding: 24px 24px;
 justify-content: center;
 }
 
-h2{
+h1{
     display: flex;
   justify-content: center;
   color: white;
@@ -167,7 +167,7 @@ justify-content: center;
   max-width: 900px;
   gap: 30px;
 margin: 0 auto;
-padding: 24px 24px;
+padding: 12px 12px;
 background-color: #f24444;
 }
 
@@ -185,4 +185,5 @@ background-color: #f24444;
 .aboutusimage{
   max-width: 450px;
   justify-content: center;
+  margin: 0 auto;
 }
