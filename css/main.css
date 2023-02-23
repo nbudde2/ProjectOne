@@ -97,3 +97,23 @@ p{
   font-family: 'silva-display', normal;
   font-weight: 400;
 }
+
+.articletext{
+  margin: 0 auto;
+  padding: 12px;
+  max-width: 900px;
+  justify-content: center;
+  color: white;
+  font-family: 'silva-display', normal;
+  font-weight: 400;
+  font-size: medium;
+  background-color: #0339a6;
+}
+
+.article-image{
+  display:flex;
+max-width: 924px;
+margin: 0 auto;
+padding: 24px 24px;
+justify-content: center;
+}
