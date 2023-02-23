@@ -168,7 +168,7 @@ justify-content: center;
   gap: 30px;
 margin: 0 auto;
 padding: 12px 12px;
-background-color: #f24444;
+background-color: #0339a6;
 }
 
 .aboutustext{
@@ -186,4 +186,12 @@ background-color: #f24444;
   max-width: 450px;
   justify-content: center;
   margin: 0 auto;
+}
+
+.contactus{
+  max-width: 900px;
+  gap: 30px;
+margin: 0 auto;
+padding: 12px 12px;
+background-color: #f24444;
 }
