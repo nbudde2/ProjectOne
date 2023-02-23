@@ -32,7 +32,7 @@ justify-content: center;
  display:flex;
 max-width: 900px;
 margin: 0 auto;
-padding: 12px 24px;
+padding: 12px 12px;
 justify-content: space-evenly;
 }
 
@@ -81,7 +81,16 @@ h2{
   background-color: #0339a6;
 }
 
-.featuredboard-items
+.featuredboard-row1
+{
+    display:flex;
+    max-width: 900px;
+    gap: 30px;
+  margin: 0 auto;
+  padding: 24px 24px;
+}
+
+.featuredboard-row2
 {
     display:flex;
     max-width: 900px;
@@ -116,4 +125,40 @@ max-width: 924px;
 margin: 0 auto;
 padding: 24px 24px;
 justify-content: center;
+}
+
+.yourboard
+{
+    max-width: 900px;
+    gap: 30px;
+  margin: 0 auto;
+  padding: 12px;
+  background-color: #f24444;
+}
+
+.yourboard-row1
+{
+    display:flex;
+    max-width: 900px;
+    gap: 30px;
+  margin: 0 auto;
+  padding: 24px 24px;
+}
+
+.yourboard-row2
+{
+    display:flex;
+    max-width: 900px;
+    gap: 30px;
+  margin: 0 auto;
+  padding: 24px 24px;
+}
+
+.yourboard-row3
+{
+    display:flex;
+    max-width: 900px;
+    gap: 30px;
+  margin: 0 auto;
+  padding: 24px 24px;
 }
