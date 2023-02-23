@@ -162,3 +162,27 @@ justify-content: center;
   margin: 0 auto;
   padding: 24px 24px;
 }
+
+.aboutus{
+  max-width: 900px;
+  gap: 30px;
+margin: 0 auto;
+padding: 24px 24px;
+background-color: #f24444;
+}
+
+.aboutustext{
+  margin: 0 auto;
+  padding: 12px;
+  max-width: 900px;
+  justify-content: center;
+  color: white;
+  font-family: 'silva-display', normal;
+  font-weight: 400;
+  font-size: medium;
+}
+
+.aboutusimage{
+  max-width: 450px;
+  justify-content: center;
+}
